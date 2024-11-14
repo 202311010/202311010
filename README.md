@@ -1,4 +1,4 @@
-## 202311010 소개
+### 202311010 소개
 
 <!--
 **202311010/202311010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

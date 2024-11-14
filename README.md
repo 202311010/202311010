@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning OSS
+- 🌱 I’m currently learning OSS ...
 - 👯 I’m looking to collaborate on accounting
 - 🔭 I’m looking for help with code review
 - 💬 Ask me about accounting
